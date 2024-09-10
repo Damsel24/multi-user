@@ -2,7 +2,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import MainLayout from '../components/Layout/MainLayout';
-import UserLogin from '../pages/User/UserLogin';
+import UserLogin from '../pages/User/Auth/UserLogin';
 import AdminLogin from '../pages/Admin/AdminLogin';
 import FrontDeskLogin from '../pages/FrontDesk/FrontDeskLogin';
 import NotFound from '../pages/NotFound/NotFound';
